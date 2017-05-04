@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Mon Apr 24 17:49:21 COT 2017
+threads=1
+total=9000
+threadAverage=9000
+stories/RegisterJira.story=9000

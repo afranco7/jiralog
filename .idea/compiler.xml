@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="agendar-citas" />
+        <module name="registrarJira" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="agendar-citas" target="1.5" />
+      <module name="registrarJira" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

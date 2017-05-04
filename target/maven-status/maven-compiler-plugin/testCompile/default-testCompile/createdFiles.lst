@@ -1,0 +1,5 @@
+steps\RegisterJiraSteps.class
+model\AgendarPages.class
+model\RegisterJiraPage.class
+steps\AgendarCitas.class
+RunnerTest.class

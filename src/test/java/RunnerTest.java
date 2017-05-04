@@ -46,6 +46,8 @@ public class RunnerTest extends JUnitStories {
                         Arrays.asList("**/*.story"),
                         Arrays.asList(""));
 
+
+        // return  new StoryFinder().findPaths(CodeLocations.codeLocationFromPath("src/test/resources/stories/"), "**/*.story", "");
     }
 
 }
